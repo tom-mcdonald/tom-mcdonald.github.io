@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Tom McDonald (Placeholder)</title>
+    <title>Tom McDonald</title>
     <link href="https://www.tommcdonald.net/feed.xml" rel="self" />
     <link href="https://www.tommcdonald.net" />
-    <updated>2023-08-22T14:07:35+08:00</updated>
+    <updated>2023-11-21T16:17:30+08:00</updated>
     <author>
         <name>Tom</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.tommcdonald.net/student-consultation/"/>
         <id>https://www.tommcdonald.net/student-consultation/</id>
 
-        <updated>2023-08-22T14:07:35+08:00</updated>
+        <updated>2023-11-21T16:17:30+08:00</updated>
             <summary>
                 <![CDATA[
                     Student consultation meetings (sometimes called 'office hours') are designated times in which academic staff will be available to students in&hellip;
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <p>Student consultation meetings (sometimes called 'office hours') are designated times in which academic staff will be available to students in order to have a conversation about wellbeing, offer feedback on a students progress, specific summative or formative assessments, and/or have an in depth discussion of an academic area in which the student is interested.</p>
-<p><a href="https://outlook.office.com/bookwithme/user/4ab9024b3e0241bb89a9045fefc02bc7@hku.hk/meetingtype/qS7luaSLZE2rDdtnftQoig2?anonymous&amp;ep=mlink" class="btn">Book meeting</a></p>
+<p><a href="https://tidycal.com/tom-mcdonald/student-consultation" class="btn">Book meeting (via TidyCal)</a></p>
             ]]>
         </content>
     </entry>
