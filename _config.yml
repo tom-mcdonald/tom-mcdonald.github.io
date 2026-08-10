@@ -1,3 +1,12 @@
-theme: jekyll-swiss
-title: My New Site
+title: My Swiss Website
 description: Built with Swiss and Pages CMS
+
+# This tells GitHub to actively use Jekyll's layout fetcher
+plugins:
+  - jekyll-remote-theme
+
+# This tells GitHub exactly whose design files to download 
+remote_theme: broccolini/swiss
+
+# Optional: Swiss comes in 'black', 'white', 'red', 'gray', or 'blue'
+theme_color: magenta
