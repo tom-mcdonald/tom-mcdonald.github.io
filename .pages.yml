@@ -1,3 +1,15 @@
+media:
+  input: assets
+  output: /assets
+
 content:
-  - path: index.md
-    name: Home
+  - type: file
+    path: index.md
+    name: Home Page
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Content
+        type: rich-text
